@@ -48,6 +48,10 @@ class Layout extends Component {
               meta={[
                 { name: 'description', content: 'Solid State' },
                 { name: 'keywords', content: 'site, web' },
+                {
+                  name: 'google-site-verification',
+                  content: 'y6qXjOXytYNx8ho9mmIU1ifHA_nUP8yh6Um7pqqSjB0',
+                },
               ]}
             >
               <html lang="en" />
